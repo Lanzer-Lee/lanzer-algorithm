@@ -1,0 +1,7 @@
+﻿  HuffmanTree.cpp
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Tree\HuffmanTree.cpp(68,13): warning C4101: “lnode”: 未引用的局部变量
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Tree\HuffmanTree.cpp(68,6): warning C4101: “rnode”: 未引用的局部变量
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Tree\HuffmanTree.cpp(67,12): warning C4101: “min2”: 未引用的局部变量
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Tree\HuffmanTree.cpp(67,6): warning C4101: “min1”: 未引用的局部变量
+BiTree.obj : error LNK2005: "int __cdecl visit(int)" (?visit@@YAHH@Z) 已经在 BiThrNode.obj 中定义
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Tree\x64\Debug\Tree.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

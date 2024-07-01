@@ -1,0 +1,34 @@
+﻿  LinkList2.cpp
+  Polynomial.cpp
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\Polynomial.cpp(18,7): error C2371: “ElemType”: 重定义；不同的基类型
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(18): message : 参见“ElemType”的声明
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\Polynomial.cpp(29,17): error C2664: “Status SetCurElem(Link &,ElemType)”: 无法将参数 2 从“term”转换为“ElemType”
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\Polynomial.cpp(29,16): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(52,8): message : 参见“SetCurElem”的声明
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\Polynomial.cpp(32,25): error C2065: “q”: 未声明的标识符
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\Polynomial.cpp(32,30): error C2065: “cmp”: 未声明的标识符
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\Polynomial.cpp(33,17): error C2065: “s”: 未声明的标识符
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\Polynomial.cpp(34,14): error C2065: “q”: 未声明的标识符
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\Polynomial.cpp(34,17): error C2065: “s”: 未声明的标识符
+  正在生成代码...
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(44): error C4716: “Append”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(38): error C4716: “ClearList”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(30): error C4716: “MakeNode”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(40): error C4716: “InsFirst”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(34): error C4716: “InitList”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(36): error C4716: “DestroyList”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(42): error C4716: “DelFirst”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(46): error C4716: “Remove”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(48): error C4716: “InsBefore”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(50): error C4716: “InsAfter”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(52): error C4716: “SetCurElem”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(66): error C4716: “NextPos”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(54): error C4716: “GetCurElem”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(62): error C4716: “GetLast”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(64): error C4716: “PriorPos”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(72): error C4716: “ListTraverse”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(56): error C4716: “ListEmpty”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(58): error C4716: “ListLength”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(60): error C4716: “GetHead”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(70): error C4716: “LocateElem”: 必须返回一个值
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Linear List\Linear List\LinkList2.cpp(68): error C4716: “LocatePos”: 必须返回一个值

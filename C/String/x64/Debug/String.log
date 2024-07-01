@@ -1,0 +1,4 @@
+﻿  HString.cpp
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\String\HString.cpp(8,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(965): message : 参见“OVERFLOW”的前一个定义
+  String.vcxproj -> F:\Grade 2 Autumn\Data Structure and Algorithm\代码\String\x64\Debug\String.exe

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69c2ffc0-f0c8-4311-8e9b-c4bd3b5c68ae": {
+      "ProjectGuid": "69c2ffc0-f0c8-4311-8e9b-c4bd3b5c68ae",
+      "DisplayName": "Stack",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,4 @@
+﻿  Queue.cpp
+F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Queue\Queue.cpp(7,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(965): message : 参见“OVERFLOW”的前一个定义
+  Queue.vcxproj -> F:\Grade 2 Autumn\Data Structure and Algorithm\代码\Queue\x64\Debug\Queue.exe
